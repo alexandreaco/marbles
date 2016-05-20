@@ -1,0 +1,11 @@
+{
+  "name": "heads-will-roll",
+  "version": "1.0.0",
+  "description": "Motel heads!!",
+  "author": "Alexandrea Defreitas <alexandreadef@gmail.com>",
+  "dependencies": {
+    "express": "^4.13.4",
+    "matter-js": "^0.10.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,29 @@
+body {
+  background-color: #49FFBD;
+  background-image: url(../img/motel-logo.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 500px;
+  margin: 0;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+button {
+  background-color: #FFF;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  margin: 20px 30px;
+  padding: 11px 15px;
+}
+
+button:hover,
+button:active,
+button:focus {
+  background-color: rgba(255,255,255,0.6);
+  outline: none;
+}
